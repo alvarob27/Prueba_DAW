@@ -7,6 +7,10 @@ public class PrimerProyecto {
 		String saludo = "Hola Mundo";
 		
 		System.out.println(saludo);
+		
+		 saludo = "Adios mundo cruel";
+		
+		System.out.println(saludo);
 
 	}
 
